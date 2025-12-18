@@ -1,5 +1,6 @@
 streamlit
-PyPDF2
 networkx
+scipy
 matplotlib
 pandas
+PyPDF2
